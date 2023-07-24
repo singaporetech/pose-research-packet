@@ -3,7 +3,7 @@
 Perform various pose estimation in python and output pose angles in C# for motion retargeting of digital avatar for Unity3D. You can have a look at the demo video in this repo for an idea.
 
 # Background
-This repo uses a cheap camera to track user's facial markers and perform head pose estimation using the solvePNP function from openCV (Basically treating the problem as a Perspective-n-Point problem to find the head angles w.r.t to camera position). This can have many advantages over the use of traditional cumbersome wearerable sensors, including, cost, space constraint, ease of uses, among others; in many areas of research. 
+This repo uses various cameras thorugh the ChooseCam.py module to track user's facial or body markers to perform pose estimation. The tracking model can be call from the infer.py module. This can have many advantages over the use of traditional cumbersome wearerable sensors, including, cost, space constraint, ease of uses, among others; in many areas of research. 
 
 Setting up
 For Python:
