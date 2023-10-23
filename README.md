@@ -25,3 +25,9 @@ ver 3.8 or below (you can create a virtual environment for this and add it to yo
 #subsequently to use spyder in the next session, just activate the environment conda activate myenv #in the activated environment, launch spyder spyder
 
 You can also create a seperate environment for python 3.9 and above, however you will also need to have the corresponding versions of the python libraries for python 3.9 or higher
+
+# Related publication 
+
+A Portable Vision-Based Head Tracking Exergame Solution for Neck Rehabilitation, AAAI Summer Symposium 2023 AI X Metaverse Track
+Author: Chee Kwang Quah, Jinhhao Ng, Benjamin Soon
+Contact: cheekwang.quah, jinhhao.ng, benjamin.soon@singaporetech.edu.sg
