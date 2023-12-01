@@ -31,3 +31,23 @@ You can also create a seperate environment for python 3.9 and above, however you
 A Portable Vision-Based Head Tracking Exergame Solution for Neck Rehabilitation, AAAI Summer Symposium 2023 AI X Metaverse Track
 Author: Chee Kwang Quah, Jinhhao Ng, Benjamin Soon
 Contact: cheekwang.quah, jinhhao.ng, benjamin.soon@singaporetech.edu.sg
+
+# Related Project
+Human motion retargeting
+![immersification](https://github.com/singaporetech/pose-research-packet/assets/23288373/23e51b73-26d8-4204-8ccf-1b8798ca1d24)
+
+Human-Computer Interaction
+
+
+https://github.com/singaporetech/pose-research-packet/assets/23288373/6d2731a6-cbee-4eda-bc98-727ff686a4f1
+
+Human-Robot Interaction
+
+
+https://github.com/singaporetech/pose-research-packet/assets/23288373/24bd005b-b7f5-4666-a20e-c2a211595442
+
+
+
+
+
+
