@@ -1,10 +1,24 @@
 # Motion Retargeting 
 
-This project aims to explore how pose tracking can be employed to immersify real-world mundane repetitive tasks.
+This project aims to explore how motion retargetting can be employed to immersify real-world tasks.
+
+## Retargetting Architecture
+
+This is the broad architecture of the current retargetting use case for drawing.
+
+![immersification](https://github.com/singaporetech/pose-research-packet/assets/23288373/23e51b73-26d8-4204-8ccf-1b8798ca1d24)
+
+### Human-Computer Retargetting
+
+https://github.com/singaporetech/pose-research-packet/assets/23288373/6d2731a6-cbee-4eda-bc98-727ff686a4f1
+
+### Human-Robot Retargetting
+
+https://github.com/singaporetech/pose-research-packet/assets/23288373/24bd005b-b7f5-4666-a20e-c2a211595442
 
 # Usable Artifact - 
 
-The proposed library allows developers to perform various pose estimation in python and output pose angles in C# for motion retargeting of digital avatar for Unity3D. You can have a look at the demo video in this repo for an idea.
+The current library allows developers to perform various pose estimation in python and output pose angles in C# for motion retargeting of digital avatar for Unity3D. You can have a look at the demo video in this repo for an idea.
 
 This repo uses various cameras thorugh the ChooseCam.py module to track user's facial or body markers to perform pose estimation. The tracking model can be call from the infer.py module. This can have many advantages over the use of traditional cumbersome wearerable sensors, including, cost, space constraint, ease of uses, among others; in many areas of research. 
 
@@ -38,7 +52,7 @@ You can also create a separate environment for python 3.9 and above, however you
 
 # Related publication 
 
-The following bibtex can be used to cite our pilot study presented in the AAAI Summer Symposium 2023.
+The following bibtex can be used to cite our pilot study on a head tracking exergame presented in the AAAI Summer Symposium 2023.
 
 ```
 @inproceedings{quah2023trackingexergame,
@@ -55,18 +69,6 @@ The following bibtex can be used to cite our pilot study presented in the AAAI S
 ```
 
 For enquiries, please contact: cheekwang.quah, jinhhao.ng, benjamin.soon@singaporetech.edu.sg
-
-# Related Project
-Human motion retargeting
-![immersification](https://github.com/singaporetech/pose-research-packet/assets/23288373/23e51b73-26d8-4204-8ccf-1b8798ca1d24)
-
-Human-Computer Interaction
-
-https://github.com/singaporetech/pose-research-packet/assets/23288373/6d2731a6-cbee-4eda-bc98-727ff686a4f1
-
-Human-Robot Interaction
-
-https://github.com/singaporetech/pose-research-packet/assets/23288373/24bd005b-b7f5-4666-a20e-c2a211595442
 
 
 
