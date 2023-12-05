@@ -28,9 +28,23 @@ You can also create a seperate environment for python 3.9 and above, however you
 
 # Related publication 
 
-A Portable Vision-Based Head Tracking Exergame Solution for Neck Rehabilitation, AAAI Summer Symposium 2023 AI X Metaverse Track
-Author: Chee Kwang Quah, Jinhhao Ng, Benjamin Soon
-Contact: cheekwang.quah, jinhhao.ng, benjamin.soon@singaporetech.edu.sg
+The following bibtex can be used to cite our pilot study presented in the AAAI Summer Symposium 2023.
+
+```
+@inproceedings{quah2023trackingexergame,
+    title={A Portable Vision-Based Head Tracking Exergame Solution for Neck Rehabilitation},
+    author={Chee Kwang Quah, Jinhhao Ng, Benjamin Soon},
+    booktitle={Proceedings of the AAAI Symposium Series},
+    volume={1},
+    number={1},
+    pages={23--27},
+    issue_date = {November 2023},
+    publisher = {AAAI Press},
+    address = {Washington, DC, USA}
+}
+```
+
+For enquiries, please contact: cheekwang.quah, jinhhao.ng, benjamin.soon@singaporetech.edu.sg
 
 # Related Project
 Human motion retargeting
