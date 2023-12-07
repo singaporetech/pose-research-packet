@@ -1,4 +1,4 @@
-# Motion Retargeting 
+# pose-research-packet a.k.a Motion Retargetting Project
 
 This project aims to explore how motion retargetting can be employed to immersify real-world tasks.
 
