@@ -16,6 +16,13 @@ https://github.com/singaporetech/pose-research-packet/assets/23288373/6d2731a6-c
 
 https://github.com/singaporetech/pose-research-packet/assets/23288373/24bd005b-b7f5-4666-a20e-c2a211595442
 
+### Hand Gesture
+
+
+https://github.com/singaporetech/pose-research-packet/assets/23288373/e4304aaf-7cee-4fc9-a097-32c6ad32379a
+
+
+
 # Usable Artifact - 
 
 The current library allows developers to perform various pose estimation in python and output pose angles in C# for motion retargeting of digital avatar for Unity3D. You can have a look at the demo video in this repo for an idea.
